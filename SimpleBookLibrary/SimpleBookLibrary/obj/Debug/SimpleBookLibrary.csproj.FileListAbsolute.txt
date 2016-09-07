@@ -1,0 +1,12 @@
+D:\git_test\NET\SimpleBookLibrary\SimpleBookLibrary\bin\Debug\SimpleBookLibrary.exe.config
+D:\git_test\NET\SimpleBookLibrary\SimpleBookLibrary\bin\Debug\SimpleBookLibrary.exe
+D:\git_test\NET\SimpleBookLibrary\SimpleBookLibrary\bin\Debug\SimpleBookLibrary.pdb
+D:\git_test\NET\SimpleBookLibrary\SimpleBookLibrary\obj\Debug\SimpleBookLibrary.csprojResolveAssemblyReference.cache
+D:\git_test\NET\SimpleBookLibrary\SimpleBookLibrary\obj\Debug\SimpleBookLibrary.exe
+D:\git_test\NET\SimpleBookLibrary\SimpleBookLibrary\obj\Debug\SimpleBookLibrary.pdb
+D:\git_test\BookLibrary\SimpleBookLibrary\SimpleBookLibrary\bin\Debug\SimpleBookLibrary.exe.config
+D:\git_test\BookLibrary\SimpleBookLibrary\SimpleBookLibrary\obj\Debug\SimpleBookLibrary.exe
+D:\git_test\BookLibrary\SimpleBookLibrary\SimpleBookLibrary\obj\Debug\SimpleBookLibrary.pdb
+D:\git_test\BookLibrary\SimpleBookLibrary\SimpleBookLibrary\bin\Debug\SimpleBookLibrary.exe
+D:\git_test\BookLibrary\SimpleBookLibrary\SimpleBookLibrary\bin\Debug\SimpleBookLibrary.pdb
+D:\git_test\BookLibrary\SimpleBookLibrary\SimpleBookLibrary\obj\Debug\SimpleBookLibrary.csprojResolveAssemblyReference.cache

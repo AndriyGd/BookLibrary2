@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace SimpleBookLibrary
 {
-    public class Author
+    class Program
     {
-        public string Name { get; set; }
-        public int Age { get; set; }
+        static void Main(string[] args)
+        {
+        }
     }
 }
